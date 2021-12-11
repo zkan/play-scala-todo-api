@@ -1,0 +1,296 @@
+[0m2021.12.11 20:09:15 INFO  Started: Metals version 0.10.9 in workspace '/Users/zkan/Projects/zkan/play-scala-todo-api' for client Visual Studio Code 1.63.0.[0m
+[0m2021.12.11 20:09:20 INFO  time: initialize in 5.17s[0m
+[0m2021.12.11 20:09:20 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.11 20:30:29 INFO  shutting down Metals[0m
+[0m2021.12.11 20:30:51 INFO  Started: Metals version 0.10.9 in workspace '/Users/zkan/Projects/zkan/play-scala-todo-api' for client Visual Studio Code 1.63.0.[0m
+[0m2021.12.11 20:30:56 INFO  time: initialize in 4.84s[0m
+[0m2021.12.11 20:30:56 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.11 20:30:57 INFO  skipping build import with status 'Requested'[0m
+[0m2021.12.11 20:32:24 INFO  shutting down Metals[0m
+[0m2021.12.11 20:34:30 INFO  Started: Metals version 0.10.9 in workspace '/Users/zkan/Projects/zkan/play-scala-todo-api' for client Visual Studio Code 1.63.0.[0m
+[0m2021.12.11 20:34:35 INFO  time: initialize in 4.9s[0m
+[0m2021.12.11 20:34:36 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.11 20:34:36 INFO  skipping build import with status 'Requested'[0m
+[0m2021.12.11 20:35:57 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:36:05 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.11 20:36:12 INFO  time: code lens generation in 13s[0m
+[0m2021.12.11 20:36:12 INFO  time: code lens generation in 13s[0m
+[0m2021.12.11 20:36:14 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:37:12 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+Dec 11, 2021 8:37:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 65
+Dec 11, 2021 8:37:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+[0m2021.12.11 20:38:03 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:38:03 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:38:03 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:38:03 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:38:03 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:38:04 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:38:04 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:39:51 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:39:51 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:39:51 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:39:51 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:39:57 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:39:57 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:39:57 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:41:00 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:41:00 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:41:00 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:41:01 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:41:01 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:41:01 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:42:09 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:10 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:10 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:10 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:10 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:11 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:18 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:18 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:19 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:19 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:31 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:31 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:31 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:31 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:31 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:35 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:35 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:44 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:44 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:44 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:54 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:42:54 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:43:30 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:43:30 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:43:30 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:43:35 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:43:35 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:43:35 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:43:35 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:43:35 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:47:13 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:47:13 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:47:13 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:47:36 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:47:36 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:48:11 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:48:11 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:48:15 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:48:15 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:48:59 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:48:59 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:49:50 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/models/TodoListItem.scala[0m
+Dec 11, 2021 8:49:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 403
+[0m2021.12.11 20:50:13 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/models/TodoListItem.scala[0m
+[0m2021.12.11 20:50:13 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/models/TodoListItem.scala[0m
+[0m2021.12.11 20:50:13 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/models/TodoListItem.scala[0m
+[0m2021.12.11 20:50:41 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/models/TodoListItem.scala[0m
+[0m2021.12.11 20:50:41 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/models/TodoListItem.scala[0m
+[0m2021.12.11 20:51:17 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/models/TodoListItem.scala[0m
+[0m2021.12.11 20:51:17 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/models/TodoListItem.scala[0m
+[0m2021.12.11 20:51:17 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/models/TodoListItem.scala[0m
+[0m2021.12.11 20:52:04 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:52:04 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:52:04 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:52:11 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:52:11 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:52:26 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:52:26 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:52:27 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:52:27 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:52:56 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:52:56 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:53:37 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:53:37 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:53:40 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:53:40 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:53:40 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:05 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:05 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:05 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:05 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:07 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:07 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:25 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:25 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:25 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:45 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:45 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:45 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:54:45 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:55:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:55:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:55:37 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:55:37 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:55:39 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:55:39 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+Dec 11, 2021 8:55:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 814
+[0m2021.12.11 20:55:43 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:55:43 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:55:43 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+Dec 11, 2021 8:56:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 23 is not a valid line number, allowed [0..22]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+[0m2021.12.11 20:56:17 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:56:17 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+Dec 11, 2021 8:56:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 23 is not a valid line number, allowed [0..22]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+Dec 11, 2021 8:56:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+Caused by: java.lang.reflect.InvocationTargetException
+	at jdk.internal.reflect.GeneratedMethodAccessor6.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 23 is not a valid line number, allowed [0..22]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+[0m2021.12.11 20:57:04 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:57:04 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:57:04 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:57:04 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:57:07 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:57:07 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:57:12 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:57:12 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/HomeController.scala[0m
+[0m2021.12.11 20:57:15 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:57:20 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:58:10 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:58:10 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 20:58:10 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:08 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:25 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:25 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:26 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:26 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:39 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:39 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:02:39 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+Dec 11, 2021 9:03:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1169
+[0m2021.12.11 21:03:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:23 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:24 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:24 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:25 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:25 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:25 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:40 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:40 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
+[0m2021.12.11 21:03:40 WARN  no build target for: /Users/zkan/Projects/zkan/play-scala-todo-api/app/controllers/TodoListController.scala[0m
